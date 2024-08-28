@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Dosis;
+}
+
+body{
+    background-color:#29252c;
+}
+
+#heading{
+    padding-top: 100px;
+    color: white;
+}
+
+#inputBox{
+    border: solid #29252c;
+    width: 350px;
+}
+
+#todoInput{
+    width: 300px;
+    height: 40px;
+    background-color:#29252c;
+    color: white;
+    border: solid;
+    border-radius: 10px;
+    font-size: 24px;
+    padding: 10px;
+}
+
+#addBtn{
+    width: 40px;
+    height: 40px;
+    font-size: 21px;
+    border-radius: 3px;
+    border: solid;
+}
+
+.taskBox {
+    width: 300px;
+    padding: 20px;
+    margin: 10px auto;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+
+.taskBox{
+    font-size: 24px;
+}
