@@ -1,6 +1,6 @@
 # 100x-Devs-Journey
 
-Welcome to my 100xDevs Cohort Assignments repository! This is where I’ll be showcasing all the projects and assignments that I’ll be working on during the cohort.
+Welcome to my 100xDevs Cohort repository! This is where I’ll be showcasing all the projects and assignments that I’ll be working on during the cohort.
 
 ## About This Repository
 
