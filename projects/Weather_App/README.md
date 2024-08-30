@@ -20,7 +20,6 @@ This project focuses on:
 
 - **Async & Promises**: Managing API requests and asynchronous operations.
 - **DOM Manipulation**: Dynamically updating the webpage with the fetched weather data.
-- **Responsive Design**: Ensuring a user-friendly interface across different devices and screen sizes.
 
 ## Deployment
 
