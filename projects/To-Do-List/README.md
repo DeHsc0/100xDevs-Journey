@@ -23,4 +23,4 @@ This project focuses on:
 
 ## Deployment
 
-You can view and interact with the deployed project [here](https://roaring-entremet-782ecd.netlify.app).
+You can view and interact with the deployed project [here](https://tododehsc02.netlify.app).
