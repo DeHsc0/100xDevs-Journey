@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #343131;
+}
+
+.mainDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.btnBar {
+    padding: 10px;
+    border: 2px solid greenyellow;
+    border-radius: 20px;
+    display: flex;
+    width: 600px;
+    justify-content: space-around;
+    background-color: white;
+}
+
+.btn {
+    padding: 8px;
+    border-radius: 12px;    
+}
+
+#red{
+    background-color: rgb(234, 32, 32);
+}
+
+#yellow{
+    background-color: rgb(244, 244, 56);
+}
+
+#black{
+    background-color: black;
+    color: white;
+}
+
+#purple{
+    background-color: rgb(172, 36, 172);
+}
+
+#green{
+    background-color: green;
+}
+
+#blue{
+    background-color: rgb(49, 49, 255);
+}
+
+#def {
+    background-color: #343131;
+    color: white;
+}
